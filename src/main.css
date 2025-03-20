@@ -6,12 +6,12 @@
 }
 
 @font-face {
-  font-family: public-pixel;
-  src: url("/fonts/public-pixel.woff");
+  font-family: "public-pixel";
+  src: url("/Portfolio/fonts/public-pixel.woff");
 }
 @font-face {
-  font-family: chill;
-  src: url("/fonts/chill.woff");
+  font-family: "chill";
+  src: url("/Portfolio/fonts/chill.woff");
 }
 
 * {

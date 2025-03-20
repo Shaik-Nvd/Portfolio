@@ -1,11 +1,11 @@
 import { defineConfig } from "vite";
 import checker from "vite-plugin-checker";
 
-// https://vitejs.dev/config/
 export default defineConfig({
+  base: "/Portfolio/",  // ✅ Ensures correct asset paths on GitHub Pages
   plugins: [checker({ typescript: true })],
-  worker: {},
   build: {
+    outDir: "dist",      // ✅ Ensures built files go to "dist/"
     sourcemap: false,
   },
   server: {
