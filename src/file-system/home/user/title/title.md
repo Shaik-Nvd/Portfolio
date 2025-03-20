@@ -3,14 +3,14 @@
 
 ##   Hi there, 
 
-#  *I'm Ed H*
+#  *I'm Naveed*
 
 ##   • Software Engineer
-##   • Digital Designer
+##   • Full Stack Developer
 
 
 
 
 
-### Welcome to ED-Linux 1.0 LTS
+### Welcome to Nvd-Linux 1.0 LTS
 ### →→ Scroll or type "help" to get started

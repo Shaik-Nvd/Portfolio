@@ -4,8 +4,15 @@
 
 # Hi there
 
-My name is Ed Hinrichsen, I’m an award-winning web dev / digital designer and full stack software engineer. I have a passion for all things technology and design, from software engineering & machine learning to UI/UX & 3D graphics.
 
-In addition to my love of technology and design, I am also interested in education, history, economics and politics.
+My name is Shaik Naveed Ahmed, and I am a full stack developer and Student counselor.  
+With expertise in backend Java development, full stack web technologies, and marketing,  
+I have a strong grasp of both technical and business aspects of software development.  
 
-Type "cd ~/projects" then "ls" to see details of some of the projects I have developed over my fifteen plus years of coding experience.
+I am passionate about teaching and mentoring. I run online tutorials to help degree and  
+engineering students crack job interviews by blending technical skills with behavioral insights.  
+
+In addition to technology and education, I have a deep interest in human psychology.
+
+Type `"cd ~/projects"` then `"ls"` to see details of some of the projects I have worked on,  
+where I have leveraged my technical expertise and strategic insights to drive success.  
